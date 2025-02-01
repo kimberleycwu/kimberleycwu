@@ -2,6 +2,8 @@
 
 *(previously found on Github [here](https://github.com/heyitsblinded))* <br/>
 
+Looking for work in: computer graphics, technical art, and animation
+<br/><br/>
 I'm on the verge of completing my BA in computer science from the University of California, Santa Cruz. I'd always imagined working in Silicon Valley, but I found Dungeons & Dragons a summer ago and now all I want to do is use code to tell stories.
 <br/><br/>
 
