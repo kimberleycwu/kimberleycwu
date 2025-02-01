@@ -1,5 +1,10 @@
-Kimberley Wu
-she/her
+# Kimberley Wu -- she/her
+<br>
+computer graphics & technical art/animation.
+
+🎓 University of California, Santa Cruz
+Computer Science BA, Film & Digital Media Minor
+
 <!--
 **kimberleycwu/kimberleycwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
